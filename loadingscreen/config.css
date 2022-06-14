@@ -1,0 +1,10 @@
+:root {
+    --background-contrast: 95%;
+    --background-blur: 0px;
+    --loadbar-color: #585858;
+    --loadbar-progress-color: #b90707;
+    --loadbar-height: 27px;
+    --footer-font-color: #FFFFFF;
+    --footer-font-size: 24px;
+    --fadeTo-Color: #222222;
+}
